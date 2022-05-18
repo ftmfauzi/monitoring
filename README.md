@@ -4,6 +4,7 @@ To explore stack monitoring using Prometheus and Grafana.
 - Promehteus
 - AlertManager
 - Grafana
+- Node_exporter
 
 Reff: 
 - https://devconnected.com/alertmanager-and-prometheus-complete-setup-on-linux/
