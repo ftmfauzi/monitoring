@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "****SET HOSTNAME****"
-read -p "Masukkan Hostname misalkan KF-postgresql : " hostname
+read -p "Masukkan Hostname misalkan server-app-001 : " hostname
 hostnamectl set-hostname $hostname
 echo "****Install node_exporter****"
 version="${VERSION:-1.1.1}"
